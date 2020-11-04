@@ -1,0 +1,27 @@
+{
+  "name": "fullstacktypescriptdeploy",
+  "version": "1.0.0",
+  "description": "Learning how to deploy Fullstack TypeScript APP on Heroku. Here TypeScript is used on both the FrontEND and the BackEND. On FrontEND it's used with React and on BackEND it's used with Express.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilvenLEAF/FullstackTypeScriptDeploy.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "Deploy"
+  ],
+  "author": "SilvenLEAF",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SilvenLEAF/FullstackTypeScriptDeploy/issues"
+  },
+  "homepage": "https://github.com/SilvenLEAF/FullstackTypeScriptDeploy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
